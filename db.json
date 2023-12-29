@@ -1,0 +1,175 @@
+{
+  "Applicants": [
+    {
+      "id": 1,
+      "img": "https://randomuser.me/api/portraits/men/1.jpg",
+      "name": "John Doe",
+      "phone": "123-456-7890",
+      "role": "Software Engineer",
+      "skills": ["JavaScript", "React.js", "Node.js"],
+      "yearsOfExperience": 3,
+      "address": "123 Main St, City, Country",
+      "companyDetails": "Company A, Senior Developer"
+    },
+    {
+      "id": 2,
+      "img": "https://randomuser.me/api/portraits/women/2.jpg",
+      "name": "Jane Smith",
+      "phone": "987-654-3210",
+      "role": "UX Designer",
+      "skills": ["UI/UX Design", "Adobe XD", "Figma"],
+      "yearsOfExperience": 5,
+      "address": "456 Elm St, City, Country",
+      "companyDetails": "Company B, Lead Designer"
+    },
+    {
+      "id": 3,
+      "img": "https://randomuser.me/api/portraits/men/3.jpg",
+      "name": "David Johnson",
+      "phone": "111-222-3333",
+      "role": "Data Analyst",
+      "skills": ["Data Analysis", "SQL", "Python"],
+      "yearsOfExperience": 4,
+      "address": "789 Oak St, City, Country",
+      "companyDetails": "Company C, Data Scientist"
+    },
+    {
+      "id": 4,
+      "img": "https://randomuser.me/api/portraits/women/4.jpg",
+      "name": "Emily Brown",
+      "phone": "444-555-6666",
+      "role": "Marketing Manager",
+      "skills": ["Digital Marketing", "SEO", "Content Strategy"],
+      "yearsOfExperience": 6,
+      "address": "101 Pine St, City, Country",
+      "companyDetails": "Company D, Marketing Director"
+    },
+    {
+      "id": 5,
+      "img": "https://randomuser.me/api/portraits/men/5.jpg",
+      "name": "Michael Wilson",
+      "phone": "777-888-9999",
+      "role": "Financial Analyst",
+      "skills": ["Financial Modeling", "Accounting", "Excel"],
+      "yearsOfExperience": 4,
+      "address": "202 Cedar St, City, Country",
+      "companyDetails": "Company E, Finance Manager"
+    },
+    {
+      "id": 6,
+      "img": "https://randomuser.me/api/portraits/women/6.jpg",
+      "name": "Sophia Miller",
+      "phone": "111-222-3333",
+      "role": "Human Resources Manager",
+      "skills": ["Employee Relations", "Recruitment", "HR Strategy"],
+      "yearsOfExperience": 7,
+      "address": "303 Maple St, City, Country",
+      "companyDetails": "Company F, HR Director"
+    },
+    {
+      "id": 7,
+      "img": "https://randomuser.me/api/portraits/men/7.jpg",
+      "name": "William Martinez",
+      "phone": "333-444-5555",
+      "role": "Sales Representative",
+      "skills": ["Sales Techniques", "Client Management", "Negotiation"],
+      "yearsOfExperience": 2,
+      "address": "404 Birch St, City, Country",
+      "companyDetails": "Company G, Sales Associate"
+    },
+    {
+      "id": 8,
+      "img": "https://randomuser.me/api/portraits/women/8.jpg",
+      "name": "Olivia Garcia",
+      "phone": "666-777-8888",
+      "role": "Graphic Designer",
+      "skills": ["Adobe Photoshop", "Illustrator", "Logo Design"],
+      "yearsOfExperience": 3,
+      "address": "505 Spruce St, City, Country",
+      "companyDetails": "Company H, Graphic Artist"
+    },
+    {
+      "id": 9,
+      "img": "https://randomuser.me/api/portraits/men/9.jpg",
+      "name": "Daniel Lee",
+      "phone": "999-000-1111",
+      "role": "Project Manager",
+      "skills": ["Project Planning", "Team Leadership", "Agile Methodologies"],
+      "yearsOfExperience": 8,
+      "address": "606 Willow St, City, Country",
+      "companyDetails": "Company I, Project Lead"
+    },
+    {
+      "id": 10,
+      "img": "https://randomuser.me/api/portraits/women/10.jpg",
+      "name": "Ava Hernandez",
+      "phone": "222-333-4444",
+      "role": "Customer Success Manager",
+      "skills": [
+        "Customer Relationship Management",
+        "Customer Support",
+        "Problem-Solving"
+      ],
+      "yearsOfExperience": 5,
+      "address": "707 Oak St, City, Country",
+      "companyDetails": "Company J, Customer Success Lead"
+    },
+    {
+      "id": 11,
+      "img": "https://randomuser.me/api/portraits/men/11.jpg",
+      "name": "Ethan Adams",
+      "phone": "333-444-5555",
+      "role": "Software Developer",
+      "skills": ["Python", "Java", "C++"],
+      "yearsOfExperience": 4,
+      "address": "808 Elm St, City, Country",
+      "companyDetails": "Company K, Software Engineer"
+    },
+    {
+      "id": 12,
+      "img": "https://randomuser.me/api/portraits/women/12.jpg",
+      "name": "Chloe Wood",
+      "phone": "555-666-7777",
+      "role": "Digital Marketing Specialist",
+      "skills": ["Social Media Marketing", "SEO", "Google Analytics"],
+      "yearsOfExperience": 3,
+      "address": "909 Cedar St, City, Country",
+      "companyDetails": "Company L, Marketing Associate"
+    },
+    {
+      "id": 13,
+      "img": "https://randomuser.me/api/portraits/men/13.jpg",
+      "name": "Mason Young",
+      "phone": "777-888-9999",
+      "role": "Business Analyst",
+      "skills": ["Business Analysis", "Data Analysis", "Financial Modeling"],
+      "yearsOfExperience": 6,
+      "address": "1010 Maple St, City, Country",
+      "companyDetails": "Company M, Business Consultant"
+    },
+    {
+      "id": 14,
+      "img": "https://randomuser.me/api/portraits/women/14.jpg",
+      "name": "Lily Hill",
+      "phone": "111-222-3333",
+      "role": "UI/UX Designer",
+      "skills": ["UI/UX Design", "Wireframing", "Prototyping"],
+      "yearsOfExperience": 5,
+      "address": "1111 Pine St, City, Country",
+      "companyDetails": "Company N, UX Designer"
+    }
+  ],
+  "Prospects": [
+    {
+      "id": 21,
+      "img": "https://randomuser.me/api/portraits/women/21.jpg",
+      "name": "Emily Johnson",
+      "phone": "111-222-3333",
+      "role": "Data Analyst",
+      "skills": ["Data Analysis", "SQL", "Python"],
+      "yearsOfExperience": 4,
+      "address": "789 Oak St, City, Country",
+      "companyDetails": "Company X, Data Scientist"
+    }
+  ]
+}
